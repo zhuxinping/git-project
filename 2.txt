@@ -1,0 +1,217 @@
+    1  pwd
+    2  echo $GOPATH
+    3  go get golang.org/x/tools/cmd/goimports
+    4  cd users
+    5  cd Users
+    6  cd ..
+    7  cd Users
+    8  cd ..
+    9  cd zxp/
+   10  cd go
+   11  cd Users
+   12  cd go
+   13  go get github.com/gpmgo/gopm
+   14  go get -v github.com/gpmgo/gopm
+   15  go get -v github.com/gpmgo/gopm
+   16  git --version
+   17  ls
+   18  ls src
+   19  ls src
+   20  cd :d
+   21  d：
+   22  d
+   23  cd :d
+   24  cd d
+   25  d:
+   26  d/
+   27  d:
+   28  ls bin
+   29  ls bin
+   30  cd ..
+   31  ls bin
+   32  ls
+   33  cd go
+   34  ls 
+   35  ls bin
+   36  echo $PATH
+   37  gopm get -g -v -u golang.org/x/tools/cmd/goimports
+   38  gopm get -g -v -u golang.org/x/tools/cmd/goimports
+   39  git init
+   40  git add .
+   41  git commit -m "first commit"
+   42  git remote add origin git@github.com:zhuxinping/vue_eleme.git
+   43  git push -u origin master
+   44  git init
+   45  git add .
+   46  git commit -m "first commit"
+   47  git remote add origin git@github.com:zhuxinping/JS.git
+   48  git push -u origin master
+   49  git
+   50  git init
+   51  git add .
+   52  git commit -m "first commit"
+   53  git remote add origin git@github.com:zhuxinping/books.git
+   54  git push -u origin master
+   55  git push -u origin master
+   56  git init
+   57  git add .
+   58  git commit -m "first commit"
+   59  git remote add origin git@github.com:zhuxinping/web.git
+   60  git push -u origin master
+   61  git init
+   62  git add .
+   63  git commit -m "first commit"
+   64  git remote add origin git@github.com:zhuxinping/redux-middlleware.git
+   65  git push -u origin master
+   66  git init
+   67  git add .
+   68  git commit -m "first commit"
+   69  git remote add origin git@github.com:zhuxinping/react_book.git
+   70  git push -u origin master
+   71  git add .
+   72  git init
+   73  git add .
+   74  git commit -m "first commit"
+   75  git remote add origin git@github.com:zhuxinping/books.git
+   76  git push -u origin master
+   77  git clone  https://github.com/zuiidea/antd-admin.git
+   78  yarn install
+   79  npm install yarn
+   80  yarn install
+   81  npm install yarn -g
+   82  yarn install
+   83  npm run start
+   84  yarn install
+   85  npm run start
+   86  npm run start
+   87  npm install npm -g
+   88  npm run start
+   89  cnpm install
+   90  npm run start
+   91  cnpm uim-build-dev --save
+   92  cnpm umi-build-dev --save
+   93  git clone https://github.com/zuiidea/antd-admin.git
+   94  cnpm install
+   95  npm install -g cnpm --registry=https://registry.npm.taobao.org
+   96  cnpm install
+   97  cnpm install
+   98  git init
+   99  git status
+  100  git add .
+  101  git status
+  102  clear
+  103  git rm --cached .
+  104  gir rm --cached . -r
+  105  git rm --cached . -r
+  106  git status
+  107  clear
+  108  git add .
+  109  git status
+  110  git commit
+  111  git commit -m""
+  112  clear
+  113  git commit -m"init commit"
+  114  git status
+  115  git log
+  116  git status
+  117  git log
+  118  pwd
+  119  clear
+  120  git config --list
+  121  clear
+  122  git config --global user.name zhuxp
+  123  git config --global user.email 346465597@qq.com
+  124  git config --list
+  125  pwd
+  126  pwd
+  127  cd d:
+  128  cd 架构/
+  129  cd Git_public/
+  130  cd /c/Users/zxp/Desktop/git_public
+  131  /d/架构/Git_public/git-project
+  132  git init
+  133  rm -rf .git
+  134  rm 2.txt
+  135  rm 2.txt
+  136  mkdir git_public
+  137  pwd
+  138  ls
+  139  ll
+  140  cd git_public/
+  141  pwd
+  142  git init
+  143  ls
+  144  ll
+  145  ls -al
+  146  clear
+  147  touch 1.txt
+  148  git status
+  149  clear
+  150  ls -al
+  151  cat 1.txt
+  152  vi 1.txt
+  153  cat 1.txt
+  154  vi 1.txt
+  155  cat 1.txt
+  156  vi 1.txt
+  157  cat 1.txt
+  158  cd :d
+  159  cd d:
+  160  cd 架构
+  161  cd Git_public/
+  162  clear
+  163  git diff
+  164  vi 1.txt
+  165  git status
+  166  rm -rf .git
+  167  rm 1.txt.txt 
+  168  git init
+  169  touch 1.txt
+  170  vm 1.txt
+  171  vi 1.txt
+  172  cat 1.txt
+  173  git status
+  174  git add .
+  175  git commit -m"init commit"
+  176  git status
+  177  vi 1.txt
+  178  cat 1.txt
+  179  clear
+  180  git diff
+  181  git diff master
+  182  git diff --cached
+  183  git add .
+  184  git diff
+  185  git diff master
+  186  git diff --cached
+  187  git commit -m"add node"
+  188  git status
+  189  git log
+  190  clear
+  191  vi 1.txt
+  192  cat 1.txt
+  193  git status
+  194  clear
+  195  git checkout .
+  196  git cat 1.txt
+  197   cat 1.txt
+  198  vi 1.txt
+  199  cat 1.txt
+  200  clear
+  201  cat 1.txt
+  202  clear
+  203  git add .
+  204  git status
+  205  git reset HEAD .
+  206  git status
+  207  git checkout .
+  208  git status
+  209  cat 1.txt
+  210  history >1.txt
+  211  git chekout .
+  212  cat 1.txt
+  213  git checkout .
+  214  git status
+  215  cat 1.txt
+  216  touch 2.txt
+  217  history > 2.txt
